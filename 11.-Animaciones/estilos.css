@@ -1,0 +1,18 @@
+#caja{
+	width: 300px;
+	height: 80px;
+	border: 5px dashed darkblue;
+	background: #ccc;
+	text-align: center;
+	line-height: 50px;
+	color:black;
+	font-size: 2rem;
+	font-family: Helvetica;
+	margin-top: 55px;
+}
+button{
+	background: black;
+	color:white;
+	font-size: 1.2rem;
+	padding:0.5rem; 
+}
