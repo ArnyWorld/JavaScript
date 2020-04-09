@@ -4,4 +4,5 @@
 <a href="https://github.com/ArnyWorld/JavaScript/tree/master/1.-Introduccion" download> Descargar </a>
 <a href="https://drive.google.com/drive/folders/19vl-HOxBvCHNVl8RXSkGFFEwix4ZvFaD"> Descargar</a>
 
-<a data-ga-click="Repository, download zip, location:repo overview"  href="/ArnyWorld/JavaScript/archive/master.zip">Download ZIP</a>
+<a  rel="nofollow" data-ga-click="Repository, download zip, location:repo overview"  href="/ArnyWorld/JavaScript/archive/master.zip">Download ZIP</a>
+data-ga-click="Repository, download zip, location:repo overview" 
